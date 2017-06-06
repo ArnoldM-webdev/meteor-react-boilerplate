@@ -1,0 +1,17 @@
+{
+  "name": "meteor-react-base-boilerplate",
+  "version": "1.0.0",
+  "description": "A Meteor boilerplate using React based on the --full create option.",
+  "license": "MIT",
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "babel-runtime": "^6.20.0",
+    "meteor-node-stubs": "~0.2.4",
+    "prop-types": "^15.5.10",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "react-router": "^3.0.5"
+  }
+}
